@@ -1,0 +1,9 @@
+.nav__container {
+    /* background-color: red; */
+    padding-block: 1rem;
+}
+
+.logo {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
