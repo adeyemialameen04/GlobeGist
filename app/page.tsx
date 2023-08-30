@@ -1,9 +1,9 @@
-import NewsList from "./components/NewsList/NewsList";
+import News from "./components/News/News";
 
 export default function Home() {
   return (
     <main style={{ paddingBottom: "6rem" }}>
-      <NewsList />
+      <News />
     </main>
   );
 }

@@ -1,6 +1,8 @@
 .nav__container {
-    /* background-color: red; */
-    padding-block: 1rem;
+    padding-block: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
