@@ -1,0 +1,9 @@
+.categories__container {
+    display: flex;
+    gap: .5rem;
+}
+
+.categories__container p {
+    font-size: 0.8rem;
+    cursor: pointer;
+}

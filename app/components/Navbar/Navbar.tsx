@@ -1,3 +1,4 @@
+import Categories from "./Categories";
 import styles from "./navbar.module.css";
 
 const Navbar = () => {
@@ -6,6 +7,7 @@ const Navbar = () => {
     <nav>
       <div className={`container ${nav__container}`}>
         <h1 className={logo}>GlobeGist</h1>
+        <Categories />
       </div>
     </nav>
   );

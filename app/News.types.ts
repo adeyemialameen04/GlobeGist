@@ -12,3 +12,7 @@ export interface NewsItem {
     provider: object[]
     datePublished: string
 }
+
+export type Category = {
+    name: string
+}
